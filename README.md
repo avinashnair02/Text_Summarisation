@@ -2,9 +2,10 @@
 
 Text summarization in an important application of Natural Language Processing which aims to procude a concise summary of the original text while retaining key information. This project focuses on one of the two methods of summarizing text, that is Extractive Summarization.
 
+Here is the Deployed version of the project Heroku:https://textsummary12.herokuapp.com/
 
 
-# Prerequisites
+# Prerequisites for the project
 You must have following python libararies installed on your machine. Please refer to requirements.txt file for details.
 - Flask (for creating web application)
 - NLTK (for natural language processing)
@@ -13,7 +14,7 @@ You must have following python libararies installed on your machine. Please refe
 # Project Structure
 The projects has following major parts:
 1. app.py : Contains Flask APIs that receive inputs through GUI, calls the main python script for processing and returns the output.
-2. textsummarizer.py : Contains python code to generate text summary from original text.
+2. textsummarizer.py : Contains python code to generate text summary from original/source text.
 3. templates : Contains HTML files that allow user to interact with the application.
 
 # Running the Project
