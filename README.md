@@ -17,7 +17,7 @@ The projects has following major parts:
 2. textsummarizer.py : Contains python code to generate text summary from original/source text.
 3. templates : Contains HTML files that allow user to interact with the application.
 
-# Running the Project
+# Running the Project in Local Machine
 1. Open Ananconda command prompt and move to your project home directory.
 2. Run app.py using below command to start Flask API
 python app.py
