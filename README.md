@@ -8,9 +8,9 @@ Here is the Deployed version of the project Heroku:https://textsummary12.herokua
 TExt_Summarisation Code : [Praveen Dubey] link for his portfolio:  https://gist.github.com/edubey/cc41dbdec508a051675daf8e8bba62c5
 
 # Prerequisites for the project
-You must have following python libararies installed on your machine. Please refer to requirements.txt file for details.
+You must have following python libararies(Specified-vesrion) installed on your machine. Please refer to requirements.txt file for more details about the packages .
 - Flask (for creating web application)
-- NLTK (for natural language processing)
+- NLTK (for Natural Language Processing)
 - Networkx (for using graph based algorithms)
 
 # Project Structure
