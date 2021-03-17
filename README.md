@@ -2,7 +2,7 @@
 
 Text summarization in an important application of Natural Language Processing which aims to procude a concise summary of the original text while retaining key information. This project focuses on one of the two methods of summarizing text, that is Extractive Summarization.
 
-I have used Flask API to integrate my python script with a web application. Deployment is done on Heroku cloud platform. Following is the link to the web application: https://nlp-extractive-summary.herokuapp.com  
+
 
 # Prerequisites
 You must have following python libararies installed on your machine. Please refer to requirements.txt file for details.
